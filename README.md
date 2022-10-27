@@ -34,11 +34,12 @@ By the end of this project:
     Apply previous knowledge of Wireframes to design as per different sprints. 
 
 Developement / Project Requirements:
+
 SR01: Research the topic of "Agile Methodologies" with a brief description of its importance for this project and present it to the client at a later stage with evidence. (Could)
 
-SR02: Idtify the structure of your team and explain your role (Must)
+SR02: Identify the structure of your team and explain your role (Must)
 
-SR03:	Setup your Trello Board	Screenshot of Trello Board with your account and team	(Must)
+SR03: Setup your Trello Board Provide a Screenshot of Trello Board with your account and team	(Must)
 
 SR04: Create a Product Backlog (Must)
        Meet with your product owner and gather all required features and user stories.
