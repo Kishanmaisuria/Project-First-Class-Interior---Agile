@@ -634,6 +634,7 @@
 
               <div class="col-4">
                 <ul style="list-style: none; text-align: right;">
+                    <button onclick="TopFunction()" id="TBN">top</button>
                   <li><a href="index.html" title="Go to Home">Home</a></li>
                   <li><a href="shop-Ci.html" title="Go to Shop">Shop</a></li>
                   <li><a href="#projects" title="Go to Projects">Projects</a></li>
@@ -648,7 +649,15 @@
           </footer>
  
             <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+            <script>
+                function TopFunction(){
+                  document.documentElement.scrollTop = 0;
+                  document.body.scrollTop = 0;
+                }
+                  
         
+        
+                  </script>
     </body>
 
 </html>
