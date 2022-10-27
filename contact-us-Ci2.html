@@ -114,6 +114,8 @@
                             </div>
             
                             <div class="col-12">
+                                <button type="button" onclick="functionPro()">Promotions and specials emails</button>
+                                <p id="EP"></p>
                                 <button type="submit" class="btn btn-primary submitbutton"><b>Submit</b></button>
                             </div>
                                             
@@ -198,6 +200,18 @@
                     function contactInfo(onmouseover)
                     {
                         document.getElementById("changeAlignment").style.textAlign="right";
+                    }
+
+                    function functionPro(onclick)
+                    {
+                        let text;
+                        let email = prompt("Please enter email:");
+                        if (email==null||email==""){
+                            text="No Email.";
+                        } else{
+                            text="Sent to:"+email;
+                        }
+                        document.getElementById("EP").innerHTML = text;
                     }
 
                 </script>
