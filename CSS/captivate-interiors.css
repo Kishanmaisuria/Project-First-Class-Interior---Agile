@@ -186,6 +186,6 @@ label{
 
 /*-- About Us Page --*/
 #btnHideStaff {
-    position: sticky;
-    top: 2em;
+    width: 25%;
+    margin-left: 38%;
 }
