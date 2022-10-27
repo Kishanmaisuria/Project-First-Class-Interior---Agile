@@ -47,6 +47,8 @@
     background-color: #45003e;
     color: #007b5a;
     width: 100%;
+    position: sticky;
+    top: 0;
     
 }
 
