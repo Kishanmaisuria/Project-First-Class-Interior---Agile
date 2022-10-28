@@ -112,14 +112,26 @@
     margin-bottom: 25px;
 }
 
+/* back to top Button */
 
-
-/*-- Footer Styling --*/
 #TBN{
     color: #45003e;
     background-color: #9dfabe;
-
+    float: right;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    border-radius: 5px;
 }
+
+.B2Top-Btn{
+    margin-bottom: 25px;
+    color: #45003e;
+    border-color: #45003e;
+    margin-left: 60px;
+    float: right;
+}
+
+/*-- Footer Styling --*/
 
 .footer-style{
     background-color: #45003e;
