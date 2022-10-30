@@ -86,7 +86,6 @@ position: sticky;
 
 /*-- Deck- For Projects and Shop Pages--*/
 
-
 .card-deck{
     display: flex;
     margin-top: 25px;
@@ -113,6 +112,23 @@ position: sticky;
     border:#9dfabe solid 1px;
     padding: 5px;
     margin-bottom: 25px;
+}
+
+/*Emails & Promotions Button*/
+
+.emailPromoBTN{
+    border-color: #45003e 2px;
+    border-radius: 5px;
+    background-color: #9dfabe;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    color: #45003e;
+    height: auto;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font: #45003e;
 }
 
 /* back to top Button */
