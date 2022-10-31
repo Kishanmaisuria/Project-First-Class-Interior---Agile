@@ -83,6 +83,13 @@ position: sticky;
     }
 }
 
+.show:hover{
+    color: #45003e;
+}
+
+.dropdown-menu.show:mouseover{
+    display: block;
+}
 
 /*-- Deck- For Projects and Shop Pages--*/
 
